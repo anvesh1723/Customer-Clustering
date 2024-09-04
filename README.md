@@ -1,2 +1,4 @@
 # Customer-Clustering
 CUSTOMER CLUSTERING FOR TARGETED MARKETING USING MACHINE LEARNING
+
+Customer segmentation is pivotal in modern business, enabling tailored marketing and services. This description elucidates the process of customer segmentation and its effectiveness in enhancing personalization.In today's data-driven landscape, customer segmentation relies on various tech-niques, among which K-Means clustering is prominent and DB-SCAN. This description focuses on the steps involved in the segmentation process: data preprocessing, feature extraction, and cluster analysis. Real-world examples highlight how businesses leverage segmentation to optimize mar-keting campaigns, create personalized experiences, and gain a competitive edge. The description concludes by emphasizing the role of customer segmentation in shaping successful business strate-gies, driving customer satisfaction, and adapting to evolving market dynamics
